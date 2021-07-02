@@ -9,7 +9,7 @@ Gem::Specification.new do |specification|
   specification.summary = 'Yet another result wrapper'
   specification.authors = ['Evgeny Boyko', 'Timur Radzhabov']
   specification.email = %w[mailbox@redo.moscow]
-  specification.license = 'proprietary'
+  specification.license = 'MIT'
 
   specification.add_development_dependency 'rspec', '~> 3.10'
 end
